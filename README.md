@@ -4,7 +4,7 @@
 
 
 - 👨‍🎓 Graduada em **Química Industrial** pela **Universidade Federal do Maranhão**.
-- 🌱 Estou realizando um bootcamp em **Data Enginner** pela **Digital Innovation One**
+- 🌱 Bootcamp em **Data Enginner** pela **Digital Innovation One**
 - 📔 Paralelo a isso, eu estou buscando materiais para me aprofundar nas tecnologias apresentadas no Bootcamp, e outras tecnologias ligadas a Data Enginner and Data Science!
 - 👯 Estou aberta para coloborar em projetos na área.
 - 🌎 Atualmente moro em São Luís/MA-BR.
@@ -16,7 +16,7 @@
 
 
 - 🎯 Estou estudando Data Science com **Python, Spark, Docker, PostgreSQL, MongoDB, Cassandra, HBase, Hadoop, Zookeeper, AWS, Azure, Google Cloud e outros.**
-- 🐱‍🏍 Sou Apaixonada por animais, e tenho 2 gatos, Tom e Harry!
+- 🐱‍🏍 Sou Apaixonada por animais, e tenho 4 gatos, Tom, Harry, Hemp e Brisa!
 - ⚡ Meus hobbies são:
   - 📖 Ler livros(distopias, aventura e fantasia);
   - 📺 Assistir Séries;
